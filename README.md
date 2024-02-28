@@ -1,16 +1,13 @@
-### Hi there 👋
+# Howdy ! I am Aditi 👋
 
-<!--
-**Aditi-BrainStation/Aditi-BrainStation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a **data Scientist.** I work at **BrainStation.** I'm a data geek who finds joy in crunching numbers and uncovering insights!✨ Just leveled up my skills at the BrainStation bootcamp, now rocking as a TA!  Hit me up for any cool project collabs you have in mind!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a SQL + Tableau project !
+- 👯 I’m looking to collaborate on all Data Science related projects.
+- 💬 Ask me about SQl, Tableau and Python!
+- 📫 How to reach me: https://www.linkedin.com/in/aditinamboodiripad/
+- 😄 Pronouns: She/Her
+
+
+
