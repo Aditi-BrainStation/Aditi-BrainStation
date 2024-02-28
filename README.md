@@ -8,7 +8,7 @@ I am a **data Scientist.** I work at **BrainStation.** I'm a data geek who finds
 - 💬 Ask me about SQl, Tableau and Python!
 - 📫 How to reach me: https://www.linkedin.com/in/aditinamboodiripad/
 - 😄 Pronouns: She/Her
-- Hobbies: Reading
+- Hobbies: watching TV
 
 
 
